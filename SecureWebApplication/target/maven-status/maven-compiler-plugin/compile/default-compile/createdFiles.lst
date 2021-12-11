@@ -1,0 +1,6 @@
+fish/payara/demos/services/DataInitializer.class
+fish/payara/demos/entities/Quality.class
+fish/payara/demos/services/DataService.class
+fish/payara/demos/controllers/UsersController.class
+fish/payara/demos/controllers/HomeController.class
+fish/payara/demos/entities/User.class
